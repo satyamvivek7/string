@@ -13,4 +13,5 @@ void main()
     printf("enter the no=");
     scanf("%d",&n);
     table(n);
+    
 }
